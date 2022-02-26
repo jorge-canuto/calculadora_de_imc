@@ -118,7 +118,7 @@ class _HomeState extends State<Home> {
       setState(() {
         classificacaoImc = "Obesidade grau 2";
       });
-    } else {
+    } else if (imc > 40.0){
       setState(() {
         classificacaoImc = "Obesidade grau 3";
       });
