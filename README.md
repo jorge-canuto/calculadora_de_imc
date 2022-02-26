@@ -4,7 +4,8 @@
   A simple body mass index (BMI) calculator using Flutter.
 
 ## Screens
-   <img src="https://github.com/jorge-canuto/projeto_calculadora/blob/master/images/calculadora_screen1.jpeg" height="600" width="400">
+   <img src="https://github.com/jorge-canuto/calculadora_de_imc/blob/master/assets/calculadora_imc_screen1.jpeg" height="600" width="400">
+   <img src="https://github.com/jorge-canuto/calculadora_de_imc/blob/master/assets/calculadora_imc_screen2.jpeg" height="600" width="400">
 
 ## Functions
   This application calculates the body mass index BMI.
