@@ -1,16 +1,16 @@
-# calculadoradeimc
+# Calculadora de IMC
 
-A new Flutter application.
+## Description
+  A simple body mass index (BMI) calculator using Flutter.
 
-## Getting Started
+## Screens
+   <img src="https://github.com/jorge-canuto/projeto_calculadora/blob/master/images/calculadora_screen1.jpeg" height="600" width="400">
 
-This project is a starting point for a Flutter application.
+## Functions
+  This application calculates the body mass index BMI.
+          
+## Done
+- [x] Application interface
+- [x] Implementation of the calculation of the body mass index
+- [x] Implementation of input decoration in text fields
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
